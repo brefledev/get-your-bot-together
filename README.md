@@ -10,7 +10,7 @@ Start with a Grok Bot, ChatGPT Dot, Muse, Duet, or an ordinary chat. Borrow a sh
 
 **[Start a useful conversation](START-HERE.md)** · **[Browse the recipes](recipes/README.md)** · **[Copy a template](templates/README.md)**
 
-Read the companion article: [AI Agent vs. AI Assistant: How Much Control Do You Have?](https://brennanflentge.com/blog/ai-agent-vs-ai-assistant-control/).
+Read the companion articles: [AI Agent vs. AI Assistant: How Much Control Do You Have?](https://brennanflentge.com/blog/ai-agent-vs-ai-assistant-control/) · [I Want a Grok Bot I Don't Have to Babysit](https://x.com/BrennanFlentge/status/2115111569617277110).
 
 ## Ask your assistant
 
