@@ -1,0 +1,10 @@
+{
+  "period_start": "2026-09-01",
+  "period_end": "2026-09-30",
+  "comparison_start": "2026-08-01",
+  "comparison_end": "2026-08-31",
+  "current": 120,
+  "previous": 100,
+  "reported_change_percent": 20.0,
+  "sources": ["Fictional teaching values supplied in HANDOFF.md"]
+}

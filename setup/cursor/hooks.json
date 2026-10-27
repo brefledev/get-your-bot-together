@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeMCPExecution": [
+      {
+        "command": "python3 .cursor/hooks/review_guard.py",
+        "timeout": 10,
+        "failClosed": true
+      }
+    ]
+  }
+}
