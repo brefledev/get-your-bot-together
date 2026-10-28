@@ -1,29 +1,32 @@
-# [Task name]
+# [Repeatable task]
 
-Purpose: [the useful result this procedure produces]
+Ask the assistant to capture a method from your current or previously successful work. Fill the details from actual inputs and decisions; do not make the owner complete a questionnaire. Remove irrelevant fields, label important unknowns, and confirm only what changes the result. Saving a procedure does not schedule it or grant new permissions.
 
-Use when: [the recurring situation]
-Inputs: [files, sources and required owner decisions]
-Output: [artifact, format and location]
-Allowed actions: [scope approved by the owner]
+## Method
 
-## Steps
+- **Use when and result:** The recurring need, intended audience, output format and return location.
+- **Inputs:** Exact sources, period/version and any decisions required before starting. Preserve originals and keep later corrections with the task.
+- **Scope:** Allowed changes and the step that needs owner approval.
 
-1. Confirm the current assignment and relevant corrections.
-2. Read [named inputs] and identify missing information.
-3. Produce [specific result].
-4. Check [observable requirements] against [source or rule].
-5. Return the artifact with material changes and remaining gaps.
+1. Read the current request and corrections, then confirm the relevant inputs are accessible.
+2. Perform the task's specific steps: [replace with the short method that produced the useful result].
+3. Compare the finished result with [named sources and observable requirements]. Record what was checked and any unresolved gap.
+4. Return [the complete artifact] to [the agreed location]. Stop at the approval boundary.
 
-## When information is missing
+**Missing input:** State what is missing and its effect. Continue independent parts when useful; ask before guessing a detail that would change the result.
+**Maintenance:** Name who updates the method, its approved location and when to review it. Keep task progress in the project brief. Propose changes before altering a saved procedure; preserve the previous version for undo.
 
-[What can proceed, what needs clarification and the affected output.]
+## Filled example: weekly project update
 
-## Check the method
+Fictional illustration of a completed procedure, not a required practice exercise.
 
-[One normal example and one error the procedure should reveal.]
+**Use when and result:** When asked for a weekly update, return a one-page draft in the current chat for the project owner.
+**Inputs:** The owner's requested dates and attached project notes for that period. Use the latest corrections; leave source notes unchanged.
+**Scope:** Summarize the named project only. Do not send, publish or create a schedule.
 
-## Saving and maintenance
+1. Read the requested period and supplied notes. If dates are missing, ask which week before writing the update.
+2. Group completed work, decisions and blockers. Link each material statement to the note or passage supporting it.
+3. Check dates against the requested period. Check that planned work is not called complete and each next action has an owner. Mark an absent owner “Unknown” and flag it for the project owner.
+4. Return the full update and any unresolved questions here. The project owner reviews it before sharing.
 
-[Approved save location, how to revise or remove it, and the change that
-would make the procedure need review.]
+**Maintenance:** The project owner approves revisions to this method after a change in reporting needs. The assistant can propose revised wording in chat; it saves only through an approved, available route. Review the actual next update rather than requiring an extra bot trial.

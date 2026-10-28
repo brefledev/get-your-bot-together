@@ -52,3 +52,7 @@ For generated or copied instructions, compare the affected source, generated out
 On 28 October 2026, the project-home, handoff and configuration-check guidance was expanded to cover instruction propagation, concise operating rules and continuity ownership. The resource check passed for 56 Markdown files, 203 local links, five JSON files, four TOML files and nine role definitions. The existing script-suite result retains its October 27 date.
 
 A useful first conversation should also handle a user with no project or GitHub account, unavailable chat history, conflicting existing instructions, declined changes and missing tool access. [START-HERE.md](START-HERE.md) gives the response procedure: use accessible evidence, show a concrete proposal, preserve the owner's choice and return a usable next step.
+
+## Template usability revision, 28 October 2026
+
+The proposed PROJECT, HANDOFF and PROCEDURE revisions include context-first filling instructions and compact fictional examples. A single scoped resource/content check passed for these three templates, the handoff recipe alignment and this record: base-file identities, allowed changed paths, local link targets, public-content hygiene, required template guidance and patch application against the reviewed base. No executable configuration changed; the script suite and live bot trials were not rerun. The examples explain usage rather than requiring additional practice tasks.

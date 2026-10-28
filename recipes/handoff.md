@@ -18,7 +18,7 @@ Name one coordinating assistant or person to maintain the project's current stat
 
 A local path works only where the file is accessible. For another computer or a cloud worker, use an approved file-transfer route and verify that the receiving worker can open the actual bytes.
 
-Name the app, working location, approved model/effort where selected, and whether this continues an existing session or begins a new one. Include the final action's scope.
+For a task tied to a particular tool or configured agent, name the required app, accessible working location, and whether to continue an existing session. Include model/effort when the owner selected it or the task depends on it; distinguish requested settings from observed settings. A simple chat review needs the actual inputs and assignment, not a model choice or working directory. Include the final action's scope.
 
 ## Example and check
 
