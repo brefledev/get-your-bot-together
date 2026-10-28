@@ -47,4 +47,8 @@ After the owner approves a change:
 
 Use an isolated tool or destination for a sending-related check. Keep the test within the owner's approved scope. The [runtime guides](README.md#use-your-existing-tools) provide the relevant paths and inspection steps.
 
+For generated or copied instructions, compare the affected source, generated output and installed files in one scoped pass. Record file agreement separately from observed loading and behavior. An unchanged file can reuse its existing evidence; repeat a check after a relevant change, failure or unresolved concern. This keeps stale copies visible without repeatedly sending the same trial to every bot.
+
+On 28 October 2026, the project-home, handoff and configuration-check guidance was expanded to cover instruction propagation, concise operating rules and continuity ownership. The resource check passed for 56 Markdown files, 203 local links, five JSON files, four TOML files and nine role definitions. The existing script-suite result retains its October 27 date.
+
 A useful first conversation should also handle a user with no project or GitHub account, unavailable chat history, conflicting existing instructions, declined changes and missing tool access. [START-HERE.md](START-HERE.md) gives the response procedure: use accessible evidence, show a concrete proposal, preserve the owner's choice and return a usable next step.

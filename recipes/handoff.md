@@ -12,6 +12,8 @@ A useful handoff answers:
 - What evidence and checks matter?
 - Where should the finished work return?
 
+Name one coordinating assistant or person to maintain the project's current state. After integrating a worker's result, that owner updates the shared project brief and next action. A specialist returns findings, artifact paths and evidence within its assigned permissions. A read-only reviewer can contribute to continuity through that handoff.
+
 ## Keep the receiving environment in view
 
 A local path works only where the file is accessible. For another computer or a cloud worker, use an approved file-transfer route and verify that the receiving worker can open the actual bytes.
